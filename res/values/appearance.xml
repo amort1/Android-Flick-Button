@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 
+	Android Flick Button
+	
+	Copyright (c) 2011 Andrew Mort
+	
+	Licensed under The MIT License (MIT)
+	http://www.opensource.org/licenses/mit-license.php
+ -->
+
+<resources>
+	<style name="default_on_appearance" parent="@android:style/TextAppearance">
+		<item name="android:textSize">18sp</item>
+		<item name="android:textColor">@color/on_text_color</item>
+		<item name="android:textStyle">bold</item>
+	</style>
+	
+	<style name="default_off_appearance" parent="@android:style/TextAppearance">
+		<item name="android:textSize">18sp</item>
+		<item name="android:textColor">@color/off_text_color</item>
+		<item name="android:textStyle">bold</item>
+	</style>
+</resources>

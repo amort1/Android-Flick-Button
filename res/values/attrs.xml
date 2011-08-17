@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 
+	Android Flick Button
+	
+	Copyright (c) 2011 Andrew Mort
+	
+	Licensed under The MIT License (MIT)
+	http://www.opensource.org/licenses/mit-license.php
+ -->
+
+<resources>
+    <declare-styleable name="FlickButtonView">
+        <attr name="android:textSize"/>
+        <attr name="android:textOn"/>
+        <attr name="android:textOff"/>
+        <attr name="android:enabled"/>
+    </declare-styleable>
+</resources>
+ 

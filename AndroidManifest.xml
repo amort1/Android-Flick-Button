@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 
+	Android Flick Button
+	
+	Copyright (c) 2011 Andrew Mort
+	
+	Licensed under The MIT License (MIT)
+	http://www.opensource.org/licenses/mit-license.php
+ -->
+
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="benegon.android.widget"
+      android:versionCode="1"
+      android:versionName="1.0">
+    <uses-sdk android:minSdkVersion="8" />
+
+    <application android:icon="@drawable/icon" android:label="FlickButtonView">
+    </application>
+</manifest>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 
+	Android Flick Button
+	
+	Copyright (c) 2011 Andrew Mort
+	
+	Licensed under The MIT License (MIT)
+	http://www.opensource.org/licenses/mit-license.php
+ -->
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_enabled="true" android:drawable="@drawable/switch_off" />
+    <item android:state_enabled="false" android:drawable="@drawable/switch_off_disabled" />
+</selector>
